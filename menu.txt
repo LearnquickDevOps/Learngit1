@@ -1,0 +1,5 @@
+this is menu, you will find all details here
+
+with several options
+:wq
+
